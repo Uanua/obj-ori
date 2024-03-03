@@ -1,0 +1,4 @@
+﻿  example2.cpp
+C:\Users\15098\Solution\Solution\Solution\example2.cpp(40,1): warning C4326: “main”的返回类型应为“int”而非“void”
+C:\Users\15098\Solution\Solution\Solution\example2.cpp(41,38): warning C4305: “参数”: 从“double”到“float”截断
+  Solution.vcxproj -> C:\Users\15098\Solution\Solution\x64\Debug\Solution.exe
